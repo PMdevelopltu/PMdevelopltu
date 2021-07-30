@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PMdevelopltu
 - 👀 I’m interested in developing useful tools/programs
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning C++, C# & .js
 - 📫 You can reach me through via Twitter @pauliusIm
 
 <!---
